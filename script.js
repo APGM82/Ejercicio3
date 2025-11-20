@@ -1,4 +1,6 @@
 function saludar()  {
-    return "Este es el saludo del primero"; 
+
+    return "Este es el saludo 2"; 
+
 }
 console.log(saludar());
